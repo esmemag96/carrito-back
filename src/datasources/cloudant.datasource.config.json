@@ -1,0 +1,9 @@
+{
+  "name": "cloudant",
+  "connector": "cloudant",
+  "url": "https://924a5f61-c9cf-49dc-8593-6b014524dc3d-bluemix:de615fb6dd7998757ba6ea7b7f196a43f2487c994816ffd56139851a02b3dcfb@924a5f61-c9cf-49dc-8593-6b014524dc3d-bluemix.cloudantnosqldb.appdomain.cloud",
+  "database": "carrito-back",
+  "username": "924a5f61-c9cf-49dc-8593-6b014524dc3d-bluemix",
+  "password": "de615fb6dd7998757ba6ea7b7f196a43f2487c994816ffd56139851a02b3dcfb",
+  "modelIndex": "products"
+}
